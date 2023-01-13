@@ -40,3 +40,5 @@ class Card:
             " of " + \
             self.suits[self.suit]
         return v
+
+        
