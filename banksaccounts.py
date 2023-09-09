@@ -1,5 +1,4 @@
 class basicinfo:
-
     __fname = None
     __lname = None
     __acc_no = None
